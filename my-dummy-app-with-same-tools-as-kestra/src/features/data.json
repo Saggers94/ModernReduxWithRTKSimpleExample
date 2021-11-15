@@ -1,0 +1,13 @@
+{
+    "astronaut_id":1,
+    "name":"Kalpana Chawla",
+    "image":"kalpana_chawla.jpg",
+    "slug":"kalpana-chawla",
+    "personal_data":"Born in Karnal, India. Died on February 1, 2003 over the southern United States when Space Shuttle Columbia and her crew perished during entry, 16 minutes prior to scheduled landing. She is survived by her husband. Kalpana Chawla enjoyed flying, hiking, back-packing, and reading. She held a Certificated Flight Instructor's license with airplane and glider ratings, Commercial Pilot's licenses for single- and multi-engine land and seaplanes, and Gliders, and instrument rating for airplanes. She enjoyed flying aerobatics and tail-wheel airplanes.",
+    "description":" In 1988, Kalpana Chawla started work at NASA Ames Research Center in the area of powered-lift computational fluid dynamics. Her research concentrated on simulation of complex air flows encountered around aircraft such as the Harrier in \"ground-effect.\" Following completion of this project she supported research in mapping of flow solvers to parallel computers, and testing of these solvers by carrying out powered lift computations. In 1993 Kalpana Chawla joined Overset Methods Inc., Los Altos, California, as Vice President and Research Scientist to form a team with other researchers specializing in simulation of moving multiple body problems. She was responsible for development and implementation of efficient techniques to perform aerodynamic optimization. Results of various projects that Kalpana Chawla participated in are documented in technical conference papers and journals.",
+    "service":"RETIRED",
+    "days_spent_in_space":30,
+    "category":{"name":"Indian","created":"2021-11-15T21:09:01.341+00:00","updated":"2021-11-15T21:09:01.341+00:00","id":2},
+    "created":"2021-11-15T21:09:01.374+00:00",
+    "updated":"2021-11-15T21:09:01.374+00:00"
+}
